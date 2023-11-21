@@ -1,1 +1,5 @@
+log/devdotlog/petclinic/controllers/OwnerController.class
+log/devdotlog/petclinic/bootstrap/DataLoader.class
+log/devdotlog/petclinic/controllers/VetController.class
 log/devdotlog/petclinic/PetClinicApplication.class
+log/devdotlog/petclinic/controllers/IndexController.class

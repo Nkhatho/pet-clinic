@@ -1,5 +1,14 @@
-log/devdotlog/petclinic/model/PetType.class
+log/devdotlog/petclinic/services/OwnerService.class
+log/devdotlog/petclinic/services/map/AbstractMapService.class
+log/devdotlog/petclinic/services/map/PetServiceMap.class
+log/devdotlog/petclinic/services/PetService.class
+log/devdotlog/petclinic/services/CrudService.class
+log/devdotlog/petclinic/model/BaseEntity.class
 log/devdotlog/petclinic/model/Vet.class
-log/devdotlog/petclinic/model/Owner.class
 log/devdotlog/petclinic/model/Person.class
 log/devdotlog/petclinic/model/Pet.class
+log/devdotlog/petclinic/services/map/OwnerServiceMap.class
+log/devdotlog/petclinic/model/PetType.class
+log/devdotlog/petclinic/services/VetService.class
+log/devdotlog/petclinic/model/Owner.class
+log/devdotlog/petclinic/services/map/VetServiceMap.class
